@@ -11,7 +11,8 @@
         "README.md",
         "assets.json",
         "File1.ts",
-        "File2.ts"
+        "File2.ts",
+        "File3.ts"
     ],
     "testFiles": [
         "test.ts"
